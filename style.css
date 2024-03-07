@@ -1,0 +1,193 @@
+header {
+    background: rgb(255, 94, 0);
+}
+header img {
+    width: 200px;
+    margin-left:230px;
+}
+.Gordon {
+    text-decoration: none;
+    color: black;
+    font-family:sans-serif ;
+    background: rgb(0, 172, 202);
+    padding: 12px;
+    margin-top:150px ;
+    margin-left:;
+    border-radius: 15px;
+    height: 14px;
+   width: 130px;
+
+}
+.Shepard {
+    width: 400px;
+    margin-left: 560px;
+}
+.wheatley {
+    color: aqua;
+}
+
+
+
+.prosto:hover {
+    opacity: 1;
+}
+
+
+.tak:hover {
+    opacity: 1;
+
+}
+.mig:hover {
+    opacity: 1;
+}  
+
+
+.Freemen {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+    background: rgb(170, 253, 44);
+    height: 14px;
+    padding-top: 14px;
+    padding-bottom: 10px;
+    width: 170px;
+    border-radius: 15px;
+    text-align: left;
+    margin-top: 150px;
+    }
+.wortigond {
+    background: black;
+    color: white;
+    font-family: sans-serif;
+}
+.prosto {
+    width: 800px;
+    opacity: 0.1;
+}
+.tak {
+    width: 800px;
+    opacity: 0.1;
+}
+.mig {
+    width: 800px;
+    margin-left: 400px;
+    opacity: 0.1;
+}
+
+.Magnuson {
+    height: 200px;
+    
+}
+.brin {
+    padding: 20px;
+}
+.class {
+    display: flex;
+}
+.lamar {
+    font-size: 30px;
+    text-align: center;
+}
+.ramal {
+    font-size: 20px;
+    margin-left: 328px;
+}
+
+
+
+
+.wens {
+    background: black;
+    color: orange;
+    font-family: sans-serif;
+    padding: 25px;
+}
+.hecu {
+    margin-left: 675px;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+
+
+
+
+.Alyx {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    background: rgb(138, 3, 3);
+    width: 110px;
+    border-radius: 15px;
+    margin-top: 150px;
+    padding-top:10px ;
+    float: right;
+    margin-left: 0px;
+    text-align: right;
+    height: 30px;
+ }
+footer {
+    background: black;
+    color:orange;
+    font-family: sans-serif;
+}
+.Maksym {
+    background: black;
+    color: green;
+    font-family: sans-serif;
+    padding: 20px;
+} 
+.portal {
+    background: black;
+    color: cornflowerblue;
+    font-family: sans-serif;
+    padding: 20px;
+}
+.glados {
+    background: black;
+    color: brown;
+    font-family:cursive;
+    padding: 20px;
+}
+.manhek {
+    margin-left:300px ;
+}
+
+
+header h1 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 100px;
+}
+a {
+ 
+ 
+}
+main {
+    
+}
+body {
+    background: rgb(236, 113, 41);
+}
+.gman {
+    font-family: sans-serif;
+    background: rgb(255, 123, 0);
+}    
+.Barney {
+    display: flex;
+}
+
+
+.Ilay {
+    width: 700px;
+}
+.Klyiner {
+    width: 850px;
+}
+
+
+
+.n1 {
+    display: flex;
+}
